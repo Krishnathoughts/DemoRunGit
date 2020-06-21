@@ -38,10 +38,7 @@ public class AdditionTest extends TestBase
 		Logs.warn("Navigating to new page");
 		Logs.fatal("New page is loading");
 		Logs.error("Please wait");
-		Logs.info("First line added");
-		Logs.info("Second line added");
-		Logs.info("Third line added");
-		Logs.info("Fourth line added");
+		
 		
 
 
