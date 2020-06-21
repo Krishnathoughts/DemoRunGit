@@ -42,7 +42,7 @@ public class AdditionTest extends TestBase
 		Logs.info("Second line added");
 		Logs.info("Third line added");
 		Logs.info("Fourth line added");
-		System.out.println("New Line added for testing");
+		
 
 
 	}
