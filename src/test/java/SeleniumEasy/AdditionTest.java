@@ -38,8 +38,9 @@ public class AdditionTest extends TestBase
 		Logs.warn("Navigating to new page");
 		Logs.fatal("New page is loading");
 		Logs.error("Please wait");
-		Logs.error("Project added");
-		Logs.error("Project added new added");
+		Logs.info("Added by new user");
+
+
 		
 		
 	}
